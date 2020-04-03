@@ -1,0 +1,4 @@
+data/nist/
+*.out
+checkpoint/
+*.tsv

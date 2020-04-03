@@ -1,0 +1,9 @@
+numpy
+scipy
+tensorflow
+Pillow
+matplotlib
+jupyter
+pandas
+bokeh
+tqdm
